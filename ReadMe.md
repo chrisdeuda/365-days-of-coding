@@ -1,5 +1,5 @@
 # 365DaysOfCoding
-I have taken the challenge to consistently learn and code with the blockchain development
+I have taken the challenge to upgrade my skills in using modern web development technologies. Since most of my  development career is PHP, Laravel, VueJS, and Wordpress, I'll be upgrading my skills to use the modern tools.
 
 I'll be tweeting my progress with #100DaysOfCode hashtag on my twitter account [chrisdeuda](https://twitter.com/chrisdeuda).
 
@@ -10,8 +10,8 @@ This was inspired as well with the HFO ( High Frequency Output) where they creat
 * Upgrade my skills using Modern Web Development Tools
 * Get work on Remote in Startup Company that with high engineering culture ( Not Web Agency).
 
-
 ## Start Date
+
 April 15, 2018
 
 ### Additional Rules
@@ -24,6 +24,7 @@ April 15, 2018
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 
 ### What should be log here:
+
 * It should be combinations of learning of technologies with specific output.
 * Taking courses are okay as long as you are not just following the tutorial. You should explore as well on your own.
 
@@ -39,8 +40,10 @@ April 15, 2018
 
 * [ ] Technologies
   * [ ] Docker
+  * [ ] Webpack
   * [ ] React JS
   * [ ] NodeJS
+  * [ ] ES6
   * [ ] Redux
   * [ ] GraphQL
   * [ ] ...
