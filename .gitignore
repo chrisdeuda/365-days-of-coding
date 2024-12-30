@@ -1,0 +1,41 @@
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+#.obsidian/
+.obsidian/cache
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin config for recent files
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/readwise-official/data.json
+
+# Need to untracked this because it causes an error when pushing changes and other machine pull the latest
+.obsidian/workspace
+.obsidian/app.json
+
+# Folders from logseq
+logseq/bak/
+
+
+#Errror Logger
+**/error.txt
+**/error_log.txt
+/error.txt
+/error_log.txt
+
+.idea
+
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
