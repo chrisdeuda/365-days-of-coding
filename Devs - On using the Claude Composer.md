@@ -1,4 +1,4 @@
-### On using the Claude Composer
+### On using the Claude Composer 
 
 It seems it was pretty interesting to be able to use the Cursor Composer because it automatically edits the files for you and 
 
